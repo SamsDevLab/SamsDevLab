@@ -1,4 +1,4 @@
-## Hey, I'm Sam Hadfield 👋
+## Sam Hadfield // Software Developer in Training
 Former independent musician who is transitioning into software development.
 - Quit pursuing music career in 2020 after over a decade of writing songs, singing in bars, and working odd jobs
 - Transitioned into IT Help Desk in 2021
@@ -6,7 +6,7 @@ Former independent musician who is transitioning into software development.
 - Worked as an SDR for CrowdStrike in Austin, TX
 - Ultimately decided that dev is where I needed to be
 - Began studying The Odin Project full time in September 2024
-- Looking to land my first dev job in 2026
+- Working hard to land my first dev job in 2026
 
 ## Currently Working On:
 - Wrapping up my Battleship game for The Odin Project curriculum. 
@@ -18,6 +18,8 @@ Finish The Odin Project by completing the following courses within the curriculu
 - React
 - Databases
 - NodeJS
+
+Begin job hunt
 <!--
 **SamsDevLab/SamsDevLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
