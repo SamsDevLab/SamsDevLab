@@ -8,11 +8,11 @@
 - Began studying The Odin Project full time in September 2024
 - Working hard to land my first dev job in 2026
 
-## Currently Working On:
+## 👨‍💻 Currently Working On:
 - Wrapping up my Battleship game for The Odin Project curriculum. 
   - The Battleship game is the capstone project for the JavaScript course within Odin.
 
-## Next Steps:
+## 🗺️ Next Steps:
 Finish The Odin Project by completing the following courses within the curriculum:
 - Advanced HTML/CSS
 - React
