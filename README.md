@@ -1,12 +1,12 @@
 ## Hey, I'm Sam Hadfield 👋
 Former independent musician who is transitioning into software development.
-• Quit pursuing music career in 2020 after over a decade of writing songs and singing in bars
-• Transitioned into IT Help Desk in 2021
-• Worked as a Help Desk Technician and Account Manager at an MSP in western Kentucky
-• Worked as an SDR for CrowdStrike in Austin, TX
-• Ultimately decided that dev is where I needed to be
-• Began studying The Odin Project full time in September 2024
-• Looking to land my first dev job in 2026
+- Quit pursuing music career in 2020 after over a decade of writing songs and singing in bars
+- Transitioned into IT Help Desk in 2021
+- Worked as a Help Desk Technician and Account Manager at an MSP in western Kentucky
+- Worked as an SDR for CrowdStrike in Austin, TX
+- Ultimately decided that dev is where I needed to be
+- Began studying The Odin Project full time in September 2024
+- Looking to land my first dev job in 2026
 
 ## Currently Working On:
 • Wrapping up my Battleship game for The Odin Project curriculum. 
