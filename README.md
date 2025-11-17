@@ -24,7 +24,7 @@ Begin job hunt
 ----
 ### 📬 Let's Connect!
 
-* [(http://linkedin.com/in/samthadfield/)]
+* [Sam Hadfield on LinkedIn](http://linkedin.com/in/samthadfield/)
 <!--
 **SamsDevLab/SamsDevLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
