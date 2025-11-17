@@ -9,15 +9,15 @@ Former independent musician who is transitioning into software development.
 - Looking to land my first dev job in 2026
 
 ## Currently Working On:
-• Wrapping up my Battleship game for The Odin Project curriculum. 
-  • The Battleship game is the capstone project for the JavaScript course within Odin.
+- Wrapping up my Battleship game for The Odin Project curriculum. 
+  - The Battleship game is the capstone project for the JavaScript course within Odin.
 
 ## Next Steps:
 Finish The Odin Project by completing the following courses within the curriculum:
-• Advanced HTML/CSS
-• React
-• Databases
-• NodeJS
+- Advanced HTML/CSS
+- React
+- Databases
+- NodeJS
 <!--
 **SamsDevLab/SamsDevLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
