@@ -1,6 +1,6 @@
 ## Hey, I'm Sam Hadfield 👋
 Former independent musician who is transitioning into software development.
-- Quit pursuing music career in 2020 after over a decade of writing songs and singing in bars
+- Quit pursuing music career in 2020 after over a decade of writing songs, singing in bars, and working odd jobs
 - Transitioned into IT Help Desk in 2021
 - Worked as a Help Desk Technician and Account Manager at an MSP in western Kentucky
 - Worked as an SDR for CrowdStrike in Austin, TX
