@@ -9,8 +9,8 @@
 - Working hard to land my first dev job in 2026
 ----
 ## 👨‍💻 Currently Working On:
-- Wrapping up my Battleship game for The Odin Project curriculum. 
-  - The Battleship game is the capstone project for the JavaScript course within Odin.
+- My first project in 'React' - a CV Application to update resumes
+  
 ----
 ## 🗺️ Next Steps:
 Finish The Odin Project by completing the following courses within the curriculum:
