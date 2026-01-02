@@ -14,7 +14,6 @@
 ----
 ## 🗺️ Next Steps:
 Finish The Odin Project by completing the following courses within the curriculum:
-- Advanced HTML/CSS
 - React
 - Databases
 - NodeJS
