@@ -9,7 +9,7 @@
 - Working hard to land my first dev job in 2026
 ----
 ## 👨‍💻 Currently Working On:
-- My first project in 'React' - a CV Application to update resumes
+- My second project in 'React' - a Memory Card game
   
 ----
 ## 🗺️ Next Steps:
