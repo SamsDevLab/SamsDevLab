@@ -8,8 +8,11 @@
 - Began studying The Odin Project full time in September 2024
 - Working hard to land my first dev job in 2026
 ----
-## 👨‍💻 Currently Working On:
-- My second project in 'React' - a Memory Card game
+## 📚 Currently Studying:
+- Class Based Components
+- React Testing
+- PropTypes
+- React Router
   
 ----
 ## 🗺️ Next Steps:
