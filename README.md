@@ -8,11 +8,8 @@
 - Began studying The Odin Project full time in September 2024
 - Working hard to land my first dev job in 2026
 ----
-## 📚 Currently Studying:
-- Class Based Components
-- React Testing
-- PropTypes
-- React Router
+## 📚 Currently Work On:
+- Mock Shopping Cart - Capstone project for React course in TOP
   
 ----
 ## 🗺️ Next Steps:
