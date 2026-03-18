@@ -1,4 +1,4 @@
-## Sam Hadfield // Software Developer in Training
+## Sam Hadfield // Software Developer
 🎸 Former independent musician who is transitioning into software development.
 - Quit pursuing music career in 2020 after over a decade of writing songs, singing in bars, and working odd jobs
 - Transitioned into IT Help Desk in 2021
