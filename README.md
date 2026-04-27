@@ -9,7 +9,7 @@
 - Working hard to land my first dev job in 2026
 ----
 ## 📚 Currently Work On:
-- Mock Shopping Cart - Capstone project for React course in TOP
+- Mini Message Board - my second NodeJS mini project
   
 ----
 ## 🗺️ Next Steps:
