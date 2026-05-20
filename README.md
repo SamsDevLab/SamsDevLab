@@ -9,7 +9,7 @@
 - Working hard to land my first dev job in 2026
 ----
 ## 📚 Currently Work On:
-- Mini Message Board - my second NodeJS mini project
+- Video Game Inventory Management app - my second NodeJS/Express project
   
 ----
 ## 🗺️ Next Steps:
