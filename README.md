@@ -8,14 +8,12 @@
 - Began studying The Odin Project full time in September 2024
 - Working hard to land my first dev job in 2026
 ----
-## 📚 Currently Work On:
-- Video Game Inventory Management app - my second NodeJS/Express project
+## 📚 Currently Working On:
+- File Uploader - Introduction of Prisma ORMs and reinforcing user authentication/authorization with Passport.js
   
 ----
 ## 🗺️ Next Steps:
-Finish The Odin Project by completing the following courses within the curriculum:
-- React
-- Databases
+Finish The Odin Project by completing the following course within the curriculum:
 - NodeJS
 
 Begin job hunt
