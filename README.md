@@ -9,7 +9,7 @@
 - Working hard to land my first dev job in 2026
 ----
 ## 📚 Currently Working On:
-- File Uploader - Introduction of Prisma ORMs and reinforcing user authentication/authorization with Passport.js
+- Blog API - Building REST API, implementing JWT authentication
   
 ----
 ## 🗺️ Next Steps:
