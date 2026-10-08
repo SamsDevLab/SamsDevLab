@@ -7,18 +7,7 @@
 - Ultimately decided that dev is where I need to be
 - Began studying The Odin Project full time in September 2024
 - Working hard to land my first dev job in 2026
-----
-## 📚 Currently Working On:
-- Blog API - Building REST API, implementing JWT authentication
-  
-----
-## 🗺️ Next Steps:
-Finish The Odin Project by completing the following course within the curriculum:
-- NodeJS
 
-Begin job hunt
-
-----
 ### 📬 Let's Connect!
 
 * [LinkedIn](http://linkedin.com/in/samthadfield/)
