@@ -1,12 +1,13 @@
 ## Sam Hadfield // Software Developer
-🎸 Former independent musician who is transitioning into software development.
-- Quit pursuing music career in 2020 after over a decade of writing songs, singing in bars, and working odd jobs
-- Transitioned into IT Help Desk in 2021
-- Worked as a Help Desk Technician and Account Manager at an MSP in western Kentucky
-- Worked as an SDR for CrowdStrike in Austin, TX
-- Ultimately decided that dev is where I need to be
-- Began studying The Odin Project full time in September 2024
-- Working hard to land my first dev job in 2026
+Software developer with a background in IT, cybersecurity, and music. Currently working as a Software Development Intern while continuing to build my skills and deepen my understanding of computer science.
+
+Studyied software development full-time through The Odin Project from September 2024 - October 2026.
+
+Currently working with C#, .NET, TypeScript, React, Next.js, and Azure Functions.
+
+Interested in systems programming, software architecture, and understanding how things work under the hood.
+
+Former independent musician with over a decade of experience writing, recording, and performing music.
 
 ### 📬 Let's Connect!
 
