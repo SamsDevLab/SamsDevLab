@@ -2,7 +2,7 @@
 Software developer with a background in IT, cybersecurity sales, and music. Currently working as a Software Development Intern while continuing to build my skills and deepen my understanding of computer science.
 
 • Studied software development full-time through The Odin Project from September 2024 - October 2026.
-• Currently working with C#, .NET, TypeScript, React, Next.js, and Azure Functions.
+• Currently working with C#, .NET, TypeScript, React, Next.js, and Azure Functions
 • Interested in systems programming, software architecture, and understanding how things work under the hood.
 
 Former independent musician with over a decade of experience writing, recording, and performing music.
